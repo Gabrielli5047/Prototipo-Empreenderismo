@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color:#62372c;
+    font-family: monospace;
+}   
+h1{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 40px;
+}
+nav{
+    margin-left: 20px;
+}
+
+form{
+    background-color: #cfc0b1;
+    background-size: cover;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    
+}
+.form{
+    background-image: url('assetsCadastro/');
+    background-size: cover;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 250px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.centralizar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 30px;
+    gap: 5px;
+}
+input{
+    all: unset;
+    box-sizing: border-box ;
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    color: blueviolet;
+    cursor: pointer;
+
+}
+
+label{
+    font-size: 25px;
+}
+
+::placeholder {
+    font-size:12px ;
+    color: rgb(0, 0, 0, 0.5);
+  }
+
+.a{
+    text-decoration: none;
+    background-color:#f1e6ca;
+    padding: 10px;
+    border-radius: 10px;
+    color:#62372c;
+    width: 80px;
+    text-align: center;
+    z-index: 1;
+}
+
+.img{
+    border-radius: 10px;
+}
+.flor{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.test{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}

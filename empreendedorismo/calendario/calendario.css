@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color:#62372c;
+    font-family: monospace;
+}   
+
+form{
+    background-image:url('assetsCalendario/WhatsApp\ Image\ 2021-10-19\ at\ 20.17.40.jpeg') ;
+    background-size: cover;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+a{
+    text-decoration: none;
+    background-color:#f1e6ca;
+    padding: 10px;
+    border-radius: 10px;
+    color:#62372c;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}

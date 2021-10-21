@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color:#62372c;
+    font-family: monospace;
+}   
+
+
+form{
+    background-image:url('../assetsModelos/WhatsApp\ Image\ 2021-10-19\ at\ 19.25.34.jpeg') ;
+    background-size: cover;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+.img6{
+    background-image:url('../assetsModelos/WhatsApp\ Image\ 2021-10-19\ at\ 19.27.02.jpeg') ;
+    background-size: cover;
+}
+.img12{
+    background-image:url('../assetsModelos/WhatsApp\ Image\ 2021-10-19\ at\ 19.25.51.jpeg') ;
+    background-size: cover;
+}
+.img4{
+    background-image:url('../assetsModelos/WhatsApp\ Image\ 2021-10-19\ at\ 20.04.07.jpeg') ;
+    background-size: cover;
+}
+.img5{
+    background-image:url('../assetsModelos/WhatsApp\ Image\ 2021-10-19\ at\ 19.26.27.jpeg') ;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    background-color:#f1e6ca;
+    padding: 10px;
+    border-radius: 10px;
+    color:#62372c;
+    margin-right: 18%;
+    margin-bottom: 10px;
+}
+.pag5{
+    background-image:url('../pagina3Assets/WhatsApp\ Image\ 2021-10-21\ at\ 08.12.43.jpeg') ;
+    background-size: cover;
+}
+.pag6{
+    background-image:url('../pagina3Assets/WhatsApp\ Image\ 2021-10-21\ at\ 08.12.58.jpeg') ;
+    background-size: cover;
+}
+.pag7{
+    background-image:url('../pagina3Assets/WhatsApp\ Image\ 2021-10-21\ at\ 08.13.31.jpeg') ;
+    background-size: cover;
+}
+.pag8{
+    background-image:url('../pagina3Assets/WhatsApp\ Image\ 2021-10-21\ at\ 08.13.46.jpeg') ;
+    background-size: cover;
+}
+.pag9{
+    background-image:url('../pagina3Assets/WhatsApp\ Image\ 2021-10-21\ at\ 08.14.18.jpeg') ;
+    background-size: cover;
+}

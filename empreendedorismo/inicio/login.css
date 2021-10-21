@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    color:#62372c;
+    font-family: monospace;
+}   
+
+nav{
+    margin-left: 20px;
+}
+
+form{
+    background-color: #cfc0b1;
+    background-size: cover;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 250px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    border-radius: 20px;
+    color: black;
+}
+.btn{
+    background-color: #f1e6ca;
+    padding: 10px;
+    background-size: cover;
+    width: 100px;
+    height: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+.centralizar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 40px;
+}
+input{
+    all: unset;
+    box-sizing: border-box ;
+    background-color: white;
+    width: 250px;
+    padding: 10px;
+    border-radius: 10px;
+    color: blueviolet;
+    cursor: pointer;
+
+}
+
+label{
+    font-size: 25px;
+}
+
+::placeholder {
+    font-size:12px ;
+    color: rgb(0, 0, 0, 0.5);
+  }
+
+  .username{
+      margin-bottom: 25px;
+  }
+  span{
+      color: black;
+  }
+  .insta{
+      margin-left: 20%;
+      margin-top: 15px;
+  }
+
+  .oi{
+      margin-top: 50px;
+  }
